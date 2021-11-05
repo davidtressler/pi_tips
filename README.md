@@ -33,7 +33,7 @@ To Copy All File from a Dir to a Pi
 
 <h1> Set the Pi Zero ACT LED trigger to 'on'. </h1>
      
-     echo 0 | sudo tee /sys/class/leds/led0/brightness
+     echo 1 | sudo tee /sys/class/leds/led0/brightness
     
 
  <h1> USEFULL LINKS </h1>
