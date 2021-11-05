@@ -2,7 +2,15 @@
 Raspbery Pi Tips and Tricks 
 
 
-SCP 
+
+
+
+<h1> Terminal Pin Out  </h1> - <b>  </b>
+    
+    $ pinout 
+
+ref: https://pimylifeup.com/raspberry-pi-pinout/
+     
 
 
 https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png
