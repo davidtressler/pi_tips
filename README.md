@@ -10,3 +10,6 @@ To Copy File to Pi
 To Copy All File from a Dir to a Pi
 
    scp -r /Users/name/3 pi@192.168.0.xx:/home/pi/foldername
+
+
+https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png
