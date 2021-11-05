@@ -27,6 +27,10 @@ To Copy All File from a Dir to a Pi
     
     
 
+ <h1> USEFULL LINKS </h1>
+
+https://www.dataplicity.com/ - Connect to Raspbery Pi terminal in a webbrowser for free 
+
 
 
    
