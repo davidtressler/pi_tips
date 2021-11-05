@@ -16,6 +16,18 @@ Raspbery Pi Tips and Tricks
 ref: https://pimylifeup.com/raspberry-pi-pinout/
      
 
+<center>
+   
+    Exit out of SSH Session
+
+     ~.
+
+Run a Python Script Over SSH
+
+ssh pi@192.168.0.IPADDRESS python3 /home/pi/FOLDERNAME/FILENAME.py
+    
+<h1> SCP </h1> </center>
+
 
 <h1> SCP  </h1> - <b> To Copy File to Pi </b>
     
