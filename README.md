@@ -27,9 +27,13 @@ To Copy All File from a Dir to a Pi
     scp -r /Users/name/3 pi@192.168.0.xx:/home/pi/foldername
     
  
- <h1> Set the Pi Zero ACT LED trigger to 'off'. </h1>
+<h1> Set the Pi Zero ACT LED trigger to 'off'. </h1>
   
-    echo none | sudo tee /sys/class/leds/led0/trigger
+    echo 0 | sudo tee /sys/class/leds/led0/brightness
+
+<h1> Set the Pi Zero ACT LED trigger to 'on'. </h1>
+     
+     echo 0 | sudo tee /sys/class/leds/led0/brightness
     
 
  <h1> USEFULL LINKS </h1>
