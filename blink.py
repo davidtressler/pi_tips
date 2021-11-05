@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO #
 import time 
 
-GPIO.setwarnings(False) #NOTE: raspberry pi could be updated, and you might need to change your code
+GPIO.setwarnings(False) 
 GPIO.setmode(GPIO.BCM) 
 GPIO.setup(14, GPIO.OUT)
 
