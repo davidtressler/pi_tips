@@ -12,8 +12,7 @@ Raspbery Pi Tips and Tricks
 ref: https://pimylifeup.com/raspberry-pi-pinout/
      
 
-
-https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png
+<img src="https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png">
 
 
 <h1> SCP  </h1> - <b> To Copy File to Pi </b>
