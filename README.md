@@ -9,10 +9,11 @@ Raspbery Pi Tips and Tricks
     
     $ pinout 
 
+
+(While Holding Pi with the HDMI Top Left) 
+<img src="https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png">
 ref: https://pimylifeup.com/raspberry-pi-pinout/
      
-
-<img src="https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png">
 
 
 <h1> SCP  </h1> - <b> To Copy File to Pi </b>
