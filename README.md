@@ -10,7 +10,7 @@ Raspbery Pi Tips and Tricks
     $ pinout 
 
 
-(While Holding Pi with the HDMI Top Left) 
+(While Holding Pi with the HDMI Top Left) <br>
 <img src="https://pimylifeup.com/wp-content/uploads/2019/12/Raspberry-Pi-Pinout-Command.png">
 ref: https://pimylifeup.com/raspberry-pi-pinout/
      
