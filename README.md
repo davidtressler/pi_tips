@@ -5,7 +5,7 @@ Raspbery Pi Tips and Tricks
 
 <h1> REBOOT SYSTEM (WITH NO DELAY)  </h1>
     
-    sudo reboot -n
+    $ sudo reboot -n
 
     
 
