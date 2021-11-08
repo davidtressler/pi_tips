@@ -1,5 +1,6 @@
 import RPi.GPIO as GPIO
-import dht11
+import dht11 #pip3 install dht11
+
 
     # initialize GPIO
 GPIO.setwarnings(False)
