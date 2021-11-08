@@ -3,7 +3,11 @@ Raspbery Pi Tips and Tricks
 
 
 
+<h1> REBOOT SYSTEM (WITH NO DELAY)  </h1>
+    
+    sudo reboot -n
 
+    
 
 <h1> Terminal Pin Out  </h1> - <b>  </b>
     
